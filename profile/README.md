@@ -1,5 +1,8 @@
-## 16X16PixelCat-Studio
-
+<div align="center">
+  <img src="logo.png" alt="16X16PixelCat-Studio logo" width="120" />
+  
+  <h1>16X16PixelCat <span style="color: #6C63FF;">Studio</span></h1>
+</div>
 <!--
 
 **Here are some ideas to get you started:**
