@@ -3,6 +3,19 @@
   
   <h1>16X16PixelCat <span style="color: #6C63FF;">Studio</span></h1>
 </div>
+
+### *PixelCat-Studio*
+is a Indie games developer studio that aims to give an enjoyable games, mods and all you can think of
+
+---
+
+## Dev team
+
+| Lead Developer | Member 2 |
+| :---: | :---: |
+| ![Pixel](16X16PixelCat.png) | (soon) |
+| **Pixel** | **soon** |
+
 <!--
 
 **Here are some ideas to get you started:**
