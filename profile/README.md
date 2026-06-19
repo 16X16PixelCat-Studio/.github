@@ -16,6 +16,8 @@ is a Indie games developer studio that aims to give an enjoyable games, mods and
 | ![Pixel](16X16PixelCat.png) | (soon) |
 | **Pixel** | **soon** |
 
+[Whatsapp blog](https://whatsapp.com/channel/0029Vb86zrP6RGJPprMXll12)
+
 <!--
 
 **Here are some ideas to get you started:**
